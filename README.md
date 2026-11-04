@@ -4,8 +4,17 @@
 
 Turning ideas into code. Building projects. Creating the future.
 
-""Instagram" (https://img.shields.io/badge/Instagram-mbtech2005-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/mb_tech_2005/)
-""GitHub" (https://img.shields.io/badge/GitHub-mb--tech2005-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/mb-tech2005)
+<p align="center">
+  <a href="https://www.instagram.com/mb_tech_2005/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://github.com/mb-tech2005">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</p>
 
 </div>---
 
