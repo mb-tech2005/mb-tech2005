@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**mb-tech2005/mb-tech2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ MB TECH
+Python Developer | Aspiring AI Engineer | Web Developer
+🚀 Turning ideas into real projects, one line of code at a time. 
+￼ ￼ ￼ 
+👨‍💻 About Me
+🐍 Learning Python and improving my programming skills.
+🌐 Exploring web development and building creative projects.
+🤖 Interested in Artificial Intelligence and Machine Learning.
+🧠 Enjoy solving problems and learning new technologies.
+🎯 My goal is to build useful, innovative, and impactful software.
+🛠️ Technologies & Tools
+￼ 
+🚀 What I'm Working On
+📚 Improving my Python and problem-solving skills.
+💻 Developing my web development portfolio.
+🤖 Exploring the world of AI.
+🔥 Turning ideas into real-world projects.
+🌐 Connect With Me
+￼ ￼  (https://github.com/mb-tech2005)
+ 
+⚡ MB TECH 
